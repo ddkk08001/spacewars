@@ -1,5 +1,5 @@
 # SPACEWARS
-https://img.shields.io/github/v/release/ddkk08001/spacwars?include_prereleases&style=for-the-badge
+[!version](https://img.shields.io/github/v/release/ddkk08001/spacwars?include_prereleases&style=for-the-badge)
 
 ### 실행환경 Execution Environment
 - Windows 11
