@@ -16,4 +16,4 @@
 - 본 프로젝트는 ***Unity 2020.3.38 LTS*** 버전에서 제작되었습니다. This project was created in ***Unity 2020.3.38 LTS***.
 - 본 프로젝트는 ***C#*** 기반으로 제작되었습니다. This project was created based on ***C#***.
 - 코드가 엉망일수도 있으니 그점 유의 바랍니다. Please note that the code may be messed up.
-- 사용된 에셋은 
+- 사용된 에셋은 위쪽 *사용한 에셋 출처*에서 찾으실 수 있습니다.
