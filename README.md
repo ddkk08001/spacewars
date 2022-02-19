@@ -1,5 +1,4 @@
 # SPACEWARS
-![licence](https://img.shields.io/eclipse-marketplace/l/spacewars)
 ![version](https://img.shields.io/github/v/release/ddkk08001/spacewars?include_prereleases&style=for-the-badge)
 
 ### 실행환경 Execution Environment
