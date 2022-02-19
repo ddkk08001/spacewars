@@ -1,8 +1,6 @@
 # SPACEWARS
-![license](https://img.shields.io/github/license/ddkk08001/spacewars) ![issue](https://img.shields.io/github/issues/ddkk08001/spacewars) ![toplangage](https://img.shields.io/github/languages/top/ddkk08001/spacewars) ![version](https://img.shields.io/github/v/release/ddkk08001/spacewars?include_prereleases)
-
-![version](https://img.shields.io/github/v/release/ddkk08001/spacewars?include_prereleases&style=for-the-badge)
-
+![version](https://img.shields.io/github/v/release/ddkk08001/spacewars?include_prereleases)
+ ![license](https://img.shields.io/github/license/ddkk08001/spacewars) ![issue](https://img.shields.io/github/issues/ddkk08001/spacewars) ![toplangage](https://img.shields.io/github/languages/top/ddkk08001/spacewars) 
 ### 실행환경 Execution Environment
 - Windows 11
 - Windows 10
