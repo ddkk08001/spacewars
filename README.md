@@ -8,7 +8,6 @@
 
 ### 사용한 에셋 출처 Used Assets Credit
 - GoldMetal [종스크롤 2D 슈팅 에셋 팩](https://assetstore.unity.com/packages/2d/characters/vertical-2d-shooting-assets-pack-188719), [볼트 2D 리틀워즈 에셋 팩](https://assetstore.unity.com/packages/2d/characters/bolt-2d-littlewars-assets-pack-189896)
-- ClayManStudio [Pixel Cursors](https://assetstore.unity.com/packages/2d/gui/icons/pixel-cursors-109256)
 
 ### 소스코드 수정이라는 끔찍한 도전을 하시는 분들을 위하여 For those who take the terrible challenge called modifying the source code
 - 본 프로젝트는 ***Unity 2020.3.38 LTS*** 버전에서 제작되었습니다. This project was created in ***Unity 2020.3.38 LTS***.
