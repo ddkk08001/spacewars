@@ -6,6 +6,10 @@
 - Windows 10
 - Mac Os 11.1.0
 
+### 게임 플레이 Game Play
+- [최신 개발자버전 다운로드 | Download Newest Development Version (Windows)](https://github.com/ddkk08001/spacewars/releases/download/V1.0.0-beta.2/Space.Wars.Windows.v1.0.0-beta.2.zip)
+- [최신 안정화버전 다운로드 | Download Newest Stable Version (Windows) | Currently Offline]()
+
 ### 사용한 에셋 출처 Used Assets Credit
 - GoldMetal [종스크롤 2D 슈팅 에셋 팩](https://assetstore.unity.com/packages/2d/characters/vertical-2d-shooting-assets-pack-188719), [볼트 2D 리틀워즈 에셋 팩](https://assetstore.unity.com/packages/2d/characters/bolt-2d-littlewars-assets-pack-189896)
 
