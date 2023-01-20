@@ -4,7 +4,7 @@
 
 우주전쟁 종스크롤 슈팅게임
  
-## 프로잭트 재시작 2월 1일 (Restarting project Feb 1)
+### 프로잭트 재시작 2월 1일 (Restarting project Feb 1)
 
 ### 실행환경 Execution Environment
 - Windows 11
